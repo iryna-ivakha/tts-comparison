@@ -72,3 +72,10 @@ label {
 .controls button {
     padding: 10px;
 }
+
+.block {
+    padding: 20px;
+    margin: 30px auto;
+    border: 2px solid rgba(0,40, 105, 0.5);
+    box-shadow: 1px 1px 10px 0 rgba(0,40, 105, 0.5);
+}
